@@ -1,4 +1,4 @@
-This is the repo for my personal webpage: aleksdushaj.me
+This is the repo for my personal webpage: https://aleksdushaj.me
 
 A SPA written in HTML, CSS, and JavaScript.
 
