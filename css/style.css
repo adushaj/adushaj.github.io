@@ -53,8 +53,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: var(--main-color) !important;
+  border-color: var(--main-color) !important;
 }
 
 .btn {
@@ -66,15 +66,13 @@ a:hover, a:focus, a:active {
   background-color: #1D809F !important;
 }
 
-@media only screen and (max-width: 991px) {
-  
-
-  
+@media only screen and (max-width: 990px) {
+   
   .fa {
-    font-size:90px;
+    font-size:290px;
   }
   .mb-1 {
-    font-size:75px;
+    font-size:105px;
   }
   
   
