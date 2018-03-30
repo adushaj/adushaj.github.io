@@ -41,45 +41,14 @@ h1 {
   text-shadow: 3px 3px 8px var(--black);
 }
 
-/*.masthead {*/
-/*  min-height: 30rem;*/
-/*  position: relative;*/
-/*  display: table;*/
-/*  width: 100%;*/
-/*  height: auto;*/
-/*  padding-top: 8rem;*/
-/*  padding-bottom: 8rem;*/
-/*  background-position: center center;*/
-/*  background-repeat: no-repeat;*/
-/*  background-size: cover;*/
-/*}*/
-
-/*.masthead h1 {*/
-/*  font-size: 4rem;*/
-/*  margin: 0;*/
-/*  padding: 0;*/
-/*}*/
-
-/*@media (min-width: 992px) {*/
-/*  .aleks {*/
-/*    height: 100vh;*/
-/*  }*/
-/*  .aleks h1 {*/
-/*    font-size: 3.5rem;*/
-/*  }*/
-/*}*/
-
-/*a {*/
-/*  color: #1D809F;*/
-/*}*/
 
 a:hover, a:focus, a:active {
   color: #155d74;
 }
 
 .btn-primary {
-  /*background-color: 0099ff!important;*/
-  /*border-color: #1D809F !important;*/
+  background-color: transparent !important;
+  border-color: transparent !important;
   color: #fff !important;
 }
 
