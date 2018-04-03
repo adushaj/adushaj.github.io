@@ -49,13 +49,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-<<<<<<< HEAD
-  background-color: none;
-  border-color: none;
-=======
   background-color: transparent !important;
   border-color: transparent !important;
->>>>>>> c94cc115c2fd71ea35290af2dbfc5fff9409f195
   color: #fff !important;
 }
 
