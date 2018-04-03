@@ -78,8 +78,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  /*background-color: 0099ff!important;*/
-  /*border-color: #1D809F !important;*/
+  background-color: none;
+  border-color: none;
   color: #fff !important;
 }
 
