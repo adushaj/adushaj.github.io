@@ -1,5 +1,7 @@
 :root {
-  --main-color: #1a8cff;
+	
+	
+  --main-color: #1a8cff; 
   --black: #000000;
   --white: #ffffff;
 }
@@ -27,7 +29,7 @@ h1 {
   position: absolute;
   top: 0;
   width: 100%;
-  background: radial-gradient(circle at top, #1a8cff, #190A05);
+  background: radial-gradient(circle at top, var(--main-color), #190A05);
 }
 
 .aleks {
@@ -38,54 +40,28 @@ h1 {
   margin: auto;
   margin-top: -100px;
   top: 53%;
-  text-shadow: 3px 3px 8px var(--black);
+  text-shadow: 7px 7px 8px var(--black);
 }
 
-/*.masthead {*/
-/*  min-height: 30rem;*/
-/*  position: relative;*/
-/*  display: table;*/
-/*  width: 100%;*/
-/*  height: auto;*/
-/*  padding-top: 8rem;*/
-/*  padding-bottom: 8rem;*/
-/*  background-position: center center;*/
-/*  background-repeat: no-repeat;*/
-/*  background-size: cover;*/
-/*}*/
-
-/*.masthead h1 {*/
-/*  font-size: 4rem;*/
-/*  margin: 0;*/
-/*  padding: 0;*/
-/*}*/
-
-/*@media (min-width: 992px) {*/
-/*  .aleks {*/
-/*    height: 100vh;*/
-/*  }*/
-/*  .aleks h1 {*/
-/*    font-size: 3.5rem;*/
-/*  }*/
-/*}*/
-
-/*a {*/
-/*  color: #1D809F;*/
-/*}*/
 
 a:hover, a:focus, a:active {
   color: #155d74;
 }
 
 .btn-primary {
+<<<<<<< HEAD
   background-color: none;
   border-color: none;
+=======
+  background-color: transparent !important;
+  border-color: transparent !important;
+>>>>>>> c94cc115c2fd71ea35290af2dbfc5fff9409f195
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: var(--main-color) !important;
+  border-color: var(--main-color) !important;
 }
 
 .btn {
@@ -97,15 +73,13 @@ a:hover, a:focus, a:active {
   background-color: #1D809F !important;
 }
 
-@media only screen and (max-width: 991px) {
-  
-
-  
+@media only screen and (max-width: 990px) {
+   
   .fa {
-    font-size:90px;
+    font-size:290px;
   }
   .mb-1 {
-    font-size:75px;
+    font-size:105px;
   }
   
   

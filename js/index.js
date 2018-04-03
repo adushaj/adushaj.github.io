@@ -72,7 +72,8 @@ function init() {
         geometry.vertices.push(vertex2);
 
         line = new THREE.Line(geometry, new THREE.LineBasicMaterial({
-            color: 0xf45383,
+			color: 0xffffff,
+            // color: 0xf45383,
             linewidth: Math.random() * (1.2 - 0.1) + 0.1,
             opacity: Math.random() * (.9 - 0.1) + 0.1
         }));
