@@ -1,6 +1,6 @@
 This is the repo for my personal webpage: www.aleksdushaj.me
 
-A SPA written in HTML, CSS, and JavaScript.
+A single page app of my portfolio written in HTML, CSS, and JavaScript.
 
 Included CDN libraries: 
 "https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"
