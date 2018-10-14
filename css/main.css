@@ -440,10 +440,11 @@ ul.sub-menu {
 
 .home-banner-one .banner-content {
     background-image: url(../images/bg/banner.png);
-    background-color: #e7e7e7;
+    background-color: #898989;
     position: relative;
     background-position: center;
     background-size: cover;
+    padding-left:0px;
 }
 
 .home-two #home-banner {
