@@ -504,6 +504,12 @@ ul.sub-menu {
     margin-top: -100px
 }
 
+@media only screen and (min-width:600px) {
+    .banner-info {
+        padding-top:200px;
+    }
+}
+
 .home-two .home-social {
     position: absolute;
     top: 40px;
@@ -772,7 +778,11 @@ ul.sub-menu {
     margin-left: 200px;
 }
 
-
+@media only screen and (max-width:600px) {
+    .exprience-info p {
+        margin-left: 5px;
+    }
+}
 /* Education Section */
 
 .education-info {
