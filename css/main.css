@@ -293,6 +293,7 @@ a:focus, button:focus, .btn:focus,
     position: inherit !important;
 }
 
+
 #navigation.menu-two .navbar-nav>li.current a,
 #navigation.menu-two .navbar-nav>li a:hover {
     padding-bottom: 40px;
@@ -444,6 +445,16 @@ ul.sub-menu {
     position: relative;
     background-position: center;
     background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+    .home-banner-one .banner-content {
+        background-image: url(../images/bg/banner.png);
+        background-color: #898989;
+        position: relative;
+        background-position: center;
+        background-size: cover;
+    }
 }
 
 .home-two #home-banner {
