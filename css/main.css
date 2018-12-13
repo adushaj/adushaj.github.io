@@ -436,12 +436,12 @@ ul.sub-menu {
 }
 
 .home-banner-one {
-    background-color: #898989;
+    background-color: #f9f9f9;
 }
 
 .home-banner-one .banner-content {
     background-image: url(../images/bg/banner.png);
-    background-color: #898989;
+    background-color: #f9f9f9;
     position: relative;
     background-position: center;
     background-size: cover;
@@ -450,7 +450,7 @@ ul.sub-menu {
 @media only screen and (max-width: 600px) {
     .home-banner-one .banner-content {
         background-image: url(../images/bg/banner.png);
-        background-color: #898989;
+        background-color: #f9f9f9;
         position: relative;
         background-position: center;
         background-size: cover;
@@ -747,7 +747,6 @@ ul.sub-menu {
     -o-transform: scale(1.1);
     transform: scale(1.1);
 }
-
 .exprience-section .exprience:hover img  {
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
