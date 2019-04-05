@@ -665,6 +665,10 @@ ul.sub-menu {
     background-color: #87c05e;
 }
 
+.progress-bar.bar6 {
+    background-color: #25acac;
+}
+
 .language-skill {
     margin-top: 50px;
 }
@@ -703,7 +707,19 @@ ul.sub-menu {
 }
 
 .language-skill .percent3 {
-    background-color: #87c05e;
+    background-color: #5ea72a;
+}
+
+.language-skill .percent4 {
+    background-color: #ed1c24;
+}
+
+.language-skill .percent5 {
+    background-color: #873e95;
+}
+
+.language-skill .percent6 {
+    background-color: #f4bf00;
 }
 
 .language-skill .percent:after {
