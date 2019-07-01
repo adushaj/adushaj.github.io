@@ -1,6 +1,6 @@
-This is the repo for my personal webpage: https://aleksdushaj.me
+### My personal webpage: https://aleksdushaj.me
 
-A single page app of my portfolio written in HTML, CSS, and JavaScript.
+A static web page of my portfolio written in HTML, CSS, and JavaScript.
 
 Included CDN libraries: 
 >  
