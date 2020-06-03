@@ -2,7 +2,7 @@
 
 A static web page of my portfolio written in HTML, CSS, and JavaScript.
 
-## 🎨 Color Reference
+## Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
