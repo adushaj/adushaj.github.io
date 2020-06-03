@@ -5,7 +5,7 @@ body {
     line-height: 24px;
     letter-spacing: 1px;
     color: #ccd6f6;
-    font-family: 'Cousine';
+    font-family: 'Poppins';
     height: 100%;
     width: 100%;
 }
@@ -23,7 +23,7 @@ h5,
 h6 {
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Montserrat';
+    font-family: 'Poppins';
     letter-spacing: 3px;
     text-transform: uppercase;
 }
@@ -32,7 +32,7 @@ a {
     text-decoration: none;
     -webkit-transition: all 0.4s;
     transition: all 0.2s;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 a:hover {
@@ -77,7 +77,7 @@ fieldset {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-family: 'Cousine';
+    font-family: 'Poppins';
 }
 
 .section-title h2:before {
@@ -88,7 +88,7 @@ fieldset {
     width: 24px;
     margin-left: -12px;
     height: 2px;
-    background: #64ffda;
+    background: #a8b2d1;
 }
 
 .preloader-area {
@@ -364,6 +364,7 @@ a.about-button {
 }
 
 a.about-button:hover {
+    color: #64ffda;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
     -webkit-transition: .4s;
     transition: .4s;
@@ -445,7 +446,7 @@ a.about-button:hover {
 .single-experience h3 {
     margin: 10px 0px;
     font-size: 12px;
-    font-style: italic;
+    /* font-style: italic; */
     color: #64ffda;
 }
 
@@ -524,7 +525,7 @@ a.about-button:hover {
     color: #787980;
     border: none;
     cursor: pointer;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .work .filters li:hover {
@@ -614,7 +615,7 @@ a.about-button:hover {
 
 .single-testimonial h3 {
     font-size: 12px;
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 .single-testimonial img {
@@ -685,7 +686,7 @@ a.read-more:hover {
 .single-blog h3 {
     margin: 10px 0px;
     font-size: 12px;
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 
